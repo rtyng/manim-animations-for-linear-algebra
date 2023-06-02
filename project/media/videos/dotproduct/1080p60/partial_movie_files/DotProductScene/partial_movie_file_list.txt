@@ -1,5 +1,5 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/dotproduct/1080p60/partial_movie_files/DotProductScene/1413466013_3365278749_223132457.mp4'
-file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/dotproduct/1080p60/partial_movie_files/DotProductScene/1672018281_4051191491_1704029410.mp4'
-file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/dotproduct/1080p60/partial_movie_files/DotProductScene/1672018281_3184073442_3098447444.mp4'
-file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/dotproduct/1080p60/partial_movie_files/DotProductScene/1672018281_190800790_2047597033.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/dotproduct/1080p60/partial_movie_files/DotProductScene/1413466013_3365278749_2994026348.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/dotproduct/1080p60/partial_movie_files/DotProductScene/1672018281_4051191491_3676226164.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/dotproduct/1080p60/partial_movie_files/DotProductScene/1672018281_3184073442_3595986201.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/dotproduct/1080p60/partial_movie_files/DotProductScene/1672018281_190800790_3034561728.mp4'

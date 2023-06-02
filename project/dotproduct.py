@@ -1,9 +1,11 @@
 from manim import *
 
-#an attempt :D
-
 class DotProductScene(Scene):
     def construct(self):
+        # Create number plane
+        plane = NumberPlane(x_range=[-5, 5], y_range=[-5, 5])
+        self.add(plane)
+
         # Create vectors
         vector1 = Vector([3, 1], color=RED)
         vector2 = Vector([2, 2], color=BLUE)
