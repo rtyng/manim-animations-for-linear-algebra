@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/buildingblocks/1080p60/partial_movie_files/MobjectStyling/2902699114_1076466279_3635915523.mp4'

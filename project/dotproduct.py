@@ -14,14 +14,18 @@ class DotProductScene(Scene):
         self.play(Create(vector1), Create(vector2))
 
         # Calculate dot product
-        dot_product = np.dot(vector1.get_end(), vector2.get_end())
+        dot_product_value = np.dot(vector1.get_end(), vector2.get_end())
+        dot_product = DecimalNumber(dot_product_value, num_decimal_places=2)
+        dot_product.next_to(vector1.get_end(), direction=DOWN, buff=0.2)
+        self.play(Write(dot_product))
 
         # Add dot product label
-        dot_product_label = MathTex(r"\text{Dot Product:}", r"3 \cdot 2 + 1 \cdot 2 =", str(dot_product))
-        dot_product_label.next_to(vector1.get_end(), direction=RIGHT)
+        dot_product_label = MathTex(r"\text{Dot Product:}")
+        dot_product_label.next_to(dot_product, direction=UP, buff=0.2)
         self.play(Write(dot_product_label))
 
         # Highlight the dot product calculation
-        self.play(ApplyMethod(dot_product_label[-1].set_color, YELLOW))
+        self.play(ApplyMethod(dot_product.set_color, YELLOW))
 
         self.wait(2)
+        
