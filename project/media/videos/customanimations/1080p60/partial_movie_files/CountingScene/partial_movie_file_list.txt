@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/customanimations/1080p60/partial_movie_files/CountingScene/2902699114_3315967912_2312493993.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/customanimations/1080p60/partial_movie_files/CountingScene/3931933789_3268397506_3722217423.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/customanimations/1080p60/partial_movie_files/CountingScene/3931933789_3315967912_3487441003.mp4'

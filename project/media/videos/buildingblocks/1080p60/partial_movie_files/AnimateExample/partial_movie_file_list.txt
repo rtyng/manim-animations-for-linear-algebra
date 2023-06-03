@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/buildingblocks/1080p60/partial_movie_files/AnimateExample/2902699114_16743366_4210957059.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/buildingblocks/1080p60/partial_movie_files/AnimateExample/3931933789_345352296_2096915820.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/buildingblocks/1080p60/partial_movie_files/AnimateExample/3931933789_2524262341_3348748796.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/buildingblocks/1080p60/partial_movie_files/AnimateExample/3931933789_345352296_1930637715.mp4'
