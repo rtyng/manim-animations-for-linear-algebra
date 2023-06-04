@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/deepdive/1080p60/partial_movie_files/ToyExample/2902699114_964576385_3460848958.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/deepdive/1080p60/partial_movie_files/ToyExample/3931933789_2317846269_2437414606.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/deepdive/1080p60/partial_movie_files/ToyExample/3931933789_3847629341_3143429999.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/deepdive/1080p60/partial_movie_files/ToyExample/3931933789_1234928412_2177449878.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/deepdive/1080p60/partial_movie_files/ToyExample/3931933789_3315967912_2370653909.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/deepdive/1080p60/partial_movie_files/ToyExample/3931933789_2310319173_3948464746.mp4'

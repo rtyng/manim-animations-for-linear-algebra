@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/mandelbrot/1080p60/partial_movie_files/MandelbrotScene/2902699114_2531720275_223132457.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/mandelbrot/1080p60/partial_movie_files/MandelbrotScene/3931933789_3315967912_3758394003.mp4'

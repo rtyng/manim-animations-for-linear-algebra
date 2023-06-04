@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/beziercurves/1080p60/partial_movie_files/BezierCurvesScene/2902699114_1047322428_223132457.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/beziercurves/1080p60/partial_movie_files/BezierCurvesScene/3931933789_884414299_2622933985.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/beziercurves/1080p60/partial_movie_files/BezierCurvesScene/3931933789_3358952429_111414421.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/beziercurves/1080p60/partial_movie_files/BezierCurvesScene/3931933789_556258165_302811540.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/beziercurves/1080p60/partial_movie_files/BezierCurvesScene/3931933789_4001816640_2868869361.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/beziercurves/1080p60/partial_movie_files/BezierCurvesScene/3931933789_1263079257_680490625.mp4'
+file 'file:C:/Users/randy/CurrentDevs/Manim/manim-animations-for-linear-algebra/project/media/videos/beziercurves/1080p60/partial_movie_files/BezierCurvesScene/3931933789_190800790_2918037891.mp4'
